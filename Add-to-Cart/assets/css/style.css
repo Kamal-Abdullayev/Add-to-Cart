@@ -1,0 +1,54 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+nav .container-fluid .collapse .navbar-nav a sup {
+  border: 1px solid #838aa0;
+  background-color: #838aa0;
+  border-radius: 50%;
+}
+
+nav .container-fluid .collapse .navbar-nav a sup .product-count {
+  border-radius: 50%;
+  color: #fff;
+}
+
+.container .row .post {
+  margin: 3% 0;
+}
+
+.container .row .post .card .card-body h4 {
+  color: #838aa0;
+}
+
+.container .row table .product-list tr td {
+  padding: 5% 1%;
+}
+
+.container .row table .product-list tr td:last-child {
+  padding: 1% 0%;
+  margin-right: 10px;
+}
+
+.container .row table .product-list tr td .post-img {
+  padding: 2% 15%;
+}
+
+.container .row table .product-list tr td .post-img img {
+  width: 100%;
+}
+
+.container .row .total-price {
+  margin-left: 81%;
+}
+
+.container .row .total-price h5 {
+  color: #838aa0;
+}
+
+.container .row .total-price h5 span {
+  color: red;
+}

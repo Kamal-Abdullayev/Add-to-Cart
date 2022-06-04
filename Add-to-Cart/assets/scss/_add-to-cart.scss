@@ -1,0 +1,34 @@
+nav {
+    .container-fluid {
+        .collapse {
+            .navbar-nav {
+                a {
+                    sup {
+                        border: 1px solid rgb(131,138,160);
+                        background-color: rgb(131,138,160);
+                        border-radius: 50%;
+                        .product-count {
+                            border-radius: 50%;
+                            color: #fff
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.container{
+    .row{
+        .post{
+            margin: 3% 0;
+            .card{
+                .card-body{
+                    h4{
+                        color: rgb(131,138,160);
+                    }
+                }
+            }
+        }
+    }
+}

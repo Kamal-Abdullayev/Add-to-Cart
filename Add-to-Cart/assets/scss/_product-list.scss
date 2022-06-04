@@ -1,0 +1,33 @@
+.container{
+    .row{
+        table{
+            .product-list{
+                tr{
+                    td{
+                        padding: 5% 1%;
+                        &:last-child{
+                            padding: 1% 0%;
+                            margin-right: 10px;
+                        }
+                        .post-img{
+                            padding: 2% 15%;
+                            img{
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .total-price{
+            margin-left: 81%;
+            h5{
+                color: rgb(131,138,160)
+                ;
+                span{
+                    color: red;
+                }
+            }
+        }
+    }
+}
